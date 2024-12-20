@@ -1,4 +1,0 @@
-repository "Rhythm Game@Gian_Ryu@cloud"
-  path "/"
-    br "/main"
-    co "/main"
